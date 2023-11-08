@@ -6,7 +6,7 @@ public class Main {
         System.out.println("""
                             
                             
-                                 JOGO DA ADIVINHAÇÃO
+                                 NUMERO SECRETO
                             
                 Você tem 5 chances de acertar qual é o numero escondido de 0 a 100
                 
