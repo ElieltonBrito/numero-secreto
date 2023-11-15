@@ -15,7 +15,7 @@ public class Main {
 
 
         int numeroDeTentativas = 0;
-        int numeroAleatorio = new Random().nextInt(100);
+        int numeroAleatorio = new Random().nextInt(30);
         int numero = 0;
 
 
